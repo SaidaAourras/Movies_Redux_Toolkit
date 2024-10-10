@@ -1,0 +1,109 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Inception",
+        "category": "Science Fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
+        "rating": 5,
+        "description": "A skilled thief is offered a chance to have his past crimes forgiven if he can plant an idea in someone's subconscious."
+      },
+      {
+        "id": 2,
+        "title": "The Godfather",
+        "category": "Crime, Drama",
+        "poster": "https://image.tmdb.org/t/p/w500/iVZ3JAcAjmguGPnRNfWFOtLHOuY.jpg",
+        "rating": 5,
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his empire to his reluctant son."
+      },
+      {
+        "id": 3,
+        "title": "The Dark Knight",
+        "category": "Action, Crime, Drama",
+        "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "rating": 5,
+        "description": "When the menace known as the Joker emerges, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+      },
+      {
+        "id": 4,
+        "title": "Pulp Fiction",
+        "category": "Crime, Drama",
+        "poster": "https://image.tmdb.org/t/p/w500/plnlrtBUULT0rh3Xsjmpubiso3L.jpg",
+        "rating": 4,
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+      },
+      {
+        "id": 5,
+        "title": "Interstellar",
+        "category": "Science Fiction, Adventure",
+        "poster": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+        "rating": 5,
+        "description": "A team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival."
+      },
+      {
+        "id": 6,
+        "title": "Fight Club",
+        "category": "Drama",
+        "poster": "https://image.tmdb.org/t/p/w500/8kNruSfhk5IoE4eZOc4UpvDn6tq.jpg",
+        "rating": 4,
+        "description": "An insomniac office worker and a soap salesman form an underground fight club that evolves into something much more."
+      },
+      {
+        "id": 7,
+        "title": "Forrest Gump",
+        "category": "Drama, Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/clolk7rB5lAjs41SD0Vt6IXYLMm.jpg",
+        "rating": 5,
+        "description": "Forrest Gump, a man with a low IQ, recounts the early years of his life when he accidentally influenced several historical events."
+      },
+      {
+        "id": 8,
+        "title": "The Matrix",
+        "category": "Action, Science Fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+        "rating": 5,
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+      },
+      {
+        "id": 9,
+        "title": "The Shawshank Redemption",
+        "category": "Drama",
+        "poster": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+        "rating": 5,
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+      },
+      {
+        "id": 10,
+        "title": "Gladiator",
+        "category": "Action, Drama",
+        "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+        "rating": 4,
+        "description": "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+      },
+      {
+        "id": 11,
+        "title": "Cats",
+        "category": "Musical, Fantasy",
+        "poster": "https://image.tmdb.org/t/p/w500/uopYRe7ntWAJHOVjuLmgRgXf1Ik.jpg",
+        "rating": 1,
+        "description": "A tribe of cats must decide yearly which one will ascend to the Heaviside Layer and come back to a new life."
+      },
+      {
+        "id": 12,
+        "title": "The Last Airbender",
+        "category": "Action, Adventure, Fantasy",
+        "poster": "https://image.tmdb.org/t/p/w500/2xKgPkJ5bHMOg3R9LlKMlxNB2wv.jpg",
+        "rating": 2,
+        "description": "A young boy with the ability to manipulate the elements embarks on a journey to restore balance to the world."
+      },
+      {
+        "id": 13,
+        "title": "Dragonball Evolution",
+        "category": "Action, Fantasy",
+        "poster": "https://image.tmdb.org/t/p/w500/vouueEQAebqUOqn7PvVcVuoPIGw.jpg",
+        "rating": 1,
+        "description": "The young warrior Son Goku sets out on a quest to find the seven Dragon Balls, and with them, save the world from the evil Lord Piccolo."
+      }
+    ]
+  }
+  
