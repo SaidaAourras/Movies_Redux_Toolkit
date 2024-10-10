@@ -1,25 +1,7 @@
 /* styles.css */
 
-.d-flex {
-    display: flex;
-}
 
-.justify-content-around {
-    justify-content: space-around;
-}
 
-.w-25 {
-    width: 25%;
-}
-
-.w-75 {
-    width: 75%;
-}
-
-.mx-auto {
-    margin-left: auto;
-    margin-right: auto;
-}
 
 .radios {
     margin-bottom: 20px;
@@ -35,8 +17,6 @@
 }
 
 .rating {
-    display: flex;
-    justify-content: center;
     margin-top: 10px;
 }
 
@@ -49,13 +29,6 @@
     margin: 0 5px; /* Spacing between stars */
 }
 
-.rating button:hover {
-    transform: scale(1.2); /* Slightly enlarge on hover */
-}
-
-.d-flex.flex-wrap {
-    flex-wrap: wrap;
-}
 
 .single-movie {
     margin: 10px;
@@ -63,10 +36,10 @@
     border-radius: 5px;
     padding: 10px;
     text-align: center;
-    width: 150px; /* Adjust the width of movie cards */
-    transition: transform 0.2s; /* Smooth scaling effect */
+    width: 150px; 
+    transition: transform 0.2s; 
 }
 
 .single-movie:hover {
-    transform: scale(1.05); /* Enlarge movie card on hover */
+    transform: scale(1.05); 
 }
